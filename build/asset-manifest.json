@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efcdf194.css",
+    "main.js": "/static/js/main.ec20840f.js",
+    "static/media/clip2.mp4": "/static/media/clip2.c434166a6d2666042413.mp4",
+    "static/media/loading.jpg": "/static/media/loading.62e9ba5457968a49c561.jpg",
+    "static/media/blog.jpg": "/static/media/blog.0ae91deb41271fe55c79.jpg",
+    "static/media/timeBound.jpg": "/static/media/timeBound.20ed7a7dfeaa0b58a727.jpg",
+    "static/media/map.jpg": "/static/media/map.2e2ba76078ae2ce10a60.jpg",
+    "static/media/bgImage.jpg": "/static/media/bgImage.8974b027d8e16dbee557.jpg",
+    "static/media/aboutUs2.png": "/static/media/aboutUs2.84f12b78aa82310ca182.png",
+    "static/media/open-box.png": "/static/media/open-box.42b938aa7dadcb9551f4.png",
+    "static/media/aboutUs.png": "/static/media/aboutUs.cab7903d85e9543e7c78.png",
+    "static/media/forklift.png": "/static/media/forklift.d2929cae3e39b7f62c7a.png",
+    "static/media/logo.png": "/static/media/logo.9bdbb392b642da24b268.png",
+    "static/media/crane.png": "/static/media/crane.f695dcb36f4df0c10aab.png",
+    "index.html": "/index.html",
+    "main.efcdf194.css.map": "/static/css/main.efcdf194.css.map",
+    "main.ec20840f.js.map": "/static/js/main.ec20840f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efcdf194.css",
+    "static/js/main.ec20840f.js"
+  ]
+}
